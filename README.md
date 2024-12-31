@@ -18,4 +18,4 @@ This project provides an **AI-driven solution** to transform natural language co
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/command-to-action-system.git
+   git clone https://github.com/evrenbaris/command-to-action-system.git
